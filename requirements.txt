@@ -1,6 +1,6 @@
-json.py
-requests.py
-bs4.py
-urllib.py
-schedule.py
-time.py
+json
+requests
+bs4
+urllib
+schedule
+time
