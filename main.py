@@ -9,8 +9,8 @@ sauce = [urllib.request.urlopen('https://salvator.net/vp/f2/subst_001.htm').read
 #sauce = [urllib.request.urlopen('https://salvator.net/vp/f1/subst_001.htm').read(), urllib.request.urlopen('https://salvator.net/vp/f1/subst_002.htm').read(), urllib.request.urlopen('https://salvator.net/vp/f1/subst_003.htm').read(), urllib.request.urlopen('https://salvator.net/vp/f1/subst_004.htm').read()]
 
 
-TOKEN = "1389299666:AAHffghldF4UPYo58RId44np__-H-6nJnlY"
-URL = "https://api.telegram.org/bot{}/".format(TOKEN)
+ChatURL = "1389299666:AAHffghldF4UPYo58RId44np__-H-6nJnlY"
+URL = "https://api.telegram.org/bot{}/".format(ChatURL)
 #chat_id = [1275311841, -1001352186886, 502872089]
 #chat_id = [-1001262651312, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777, -1001428822777]                                                                                  #Chat IDs zu allen Klassen(stufen)
 chat_id = [-1001470454981, -1001226654660, -1001171531731, -1001362114793, -1001226293377, -1001376765426, -1001429436458, -1001413395339, -1001390722825, -1001483677088, -1001285559096, -1001424888279, -1001213070159, -1001432171745, -1001449678976, -1001390488865, -1001395192746, -1001191865475]
